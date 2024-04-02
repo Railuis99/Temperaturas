@@ -1,0 +1,20 @@
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Aula10\Aula10\Aula10\bin\Debug\Aula10.exe.config
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Aula10\Aula10\Aula10\bin\Debug\Aula10.exe
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Aula10\Aula10\Aula10\bin\Debug\Aula10.pdb
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Aula10\Aula10\Aula10\obj\Debug\Aula10.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Aula10\Aula10\Aula10\obj\Debug\Aula10.Form1.resources
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Aula10\Aula10\Aula10\obj\Debug\Aula10.Properties.Resources.resources
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Aula10\Aula10\Aula10\obj\Debug\Aula10.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Aula10\Aula10\Aula10\obj\Debug\Aula10.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Aula10\Aula10\Aula10\obj\Debug\Aula10.exe
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Aula10\Aula10\Aula10\obj\Debug\Aula10.pdb
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 5\Tarefa 5\Aula10\bin\Debug\Aula10.exe.config
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 5\Tarefa 5\Aula10\bin\Debug\Aula10.exe
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 5\Tarefa 5\Aula10\bin\Debug\Aula10.pdb
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 5\Tarefa 5\Aula10\obj\Debug\Aula10.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 5\Tarefa 5\Aula10\obj\Debug\Aula10.Form1.resources
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 5\Tarefa 5\Aula10\obj\Debug\Aula10.Properties.Resources.resources
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 5\Tarefa 5\Aula10\obj\Debug\Aula10.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 5\Tarefa 5\Aula10\obj\Debug\Aula10.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 5\Tarefa 5\Aula10\obj\Debug\Aula10.exe
+C:\Users\HP\Desktop\RAÍ\ESTUDO\IEFP\APZ+ TÉCNICO ESPECIALISTA EM TECNOLOGIAS E PROGRAMAÇÃO\5412 - Programação\Tarefas\Tarefa 5\Tarefa 5\Aula10\obj\Debug\Aula10.pdb
